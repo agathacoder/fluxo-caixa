@@ -1,0 +1,6 @@
+{
+  "name": "Fluxo Caixa Inteligente",
+  "description": "Uma ferramenta interativa para aprender e simular fluxo de caixa de forma visual, inspirada no design moderno de aplicativos financeiros.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
